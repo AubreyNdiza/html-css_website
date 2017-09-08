@@ -1,0 +1,38 @@
+html {
+	margin: 0;
+	padding: 0;
+}
+.heading{
+	height:100px;
+	background: red;
+	padding: 20px;
+	text-align: center;
+	font-family: helvetica;
+	font-size: 30px;
+}
+.navigation{
+	height: 50px;
+	background-color: yellow;
+	color: black;
+	text-align: center;
+	font-size: 26px;
+	font-family: helvetica;
+	list-style: horizontal;
+}
+.content{
+	min-height: 600px;
+	background-color: green;
+	width: 1332px;
+	text-align: center;
+	font-size: 20px;
+	float: left;
+	font-family: helvetica;
+}
+.footer{
+	clear: both;
+	background: black;
+	height: 40px;
+	color: white;
+	padding: 10px;
+	font-family: helvetica;
+}
